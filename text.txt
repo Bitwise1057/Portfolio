@@ -1,7 +1,9 @@
 <span id="a">Bit@127.0.0.1</span>:<span id="b">~</span><span id="c">$</span> cd WhoWeAre
 
 <span id="a">Bit@127.0.0.1</span>:<span id="b">~</span><span id="c">$</span> cat WhoWeAre.txt<br/><br/>
-Hey there, welcome to my website.<br>
+Hey there, welcome to my website.
+Let's start with a little bit about myself. I'm a freelance software developer in the earliest of stages.
+This is just the beginning and there is much more to come.<br>
 
 Feel free to check out my projects below.
 <a href="link1">Project 1</a>
